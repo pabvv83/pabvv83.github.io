@@ -44,7 +44,7 @@ window.SITE_DATA = {
       name: 'TikTok',
       category: 'Redes sociais',
       description: 'Perfil no TikTok.',
-      url: 'https://tiktok.com/pabvv83',
+      url: 'https://tiktok.com/@pabvv83',
       icon: 'broadcast',
       actionLabel: 'VISITAR PERFIL'
     },
@@ -103,20 +103,9 @@ window.SITE_DATA = {
       name: 'Signal',
       category: 'Mensageiro',
       description: 'Usuário no Signal.',
-      value: '@pabvv.83',
+      value: 'https://signal.me/#pabvv.83/',
       icon: 'shield',
-      // Sem URL pública cadastrada: o botão copia o usuário.
-      // Para virar link, adicione: url: 'https://signal.me/#eu/…'
       copy: { label: 'COPIAR USUÁRIO' }
-    },
-    {
-      id: 'discord',
-      name: 'Discord',
-      category: 'Comunidade',
-      description: 'Convite para o servidor no Discord.',
-      url: 'https://discord.gg/v5CU5KkbAf',
-      icon: 'chat',
-      actionLabel: 'ABRIR CONVITE'
     },
     {
       id: 'github',
@@ -134,15 +123,6 @@ window.SITE_DATA = {
       category: 'Redes sociais',
       description: 'Perfil no Instagram.',
       url: 'https://instagram.com/pabvv83',
-      icon: 'broadcast',
-      actionLabel: 'VISITAR PERFIL'
-    },
-    {
-      id: 'tiktok',
-      name: 'TikTok',
-      category: 'Redes sociais',
-      description: 'Perfil no TikTok.',
-      url: 'https://tiktok.com/@pabvv83',
       icon: 'broadcast',
       actionLabel: 'VISITAR PERFIL'
     }
