@@ -142,7 +142,7 @@ window.SITE_DATA = {
       name: 'TikTok',
       category: 'Redes sociais',
       description: 'Perfil no TikTok.',
-      url: 'https://tiktok.com/pabvv83',
+      url: 'https://tiktok.com/@pabvv83',
       icon: 'broadcast',
       actionLabel: 'VISITAR PERFIL'
     }
