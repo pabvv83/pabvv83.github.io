@@ -103,7 +103,7 @@ window.SITE_DATA = {
       name: 'Signal',
       category: 'Mensageiro',
       description: 'Usuário no Signal.',
-      value: 'https://signal.me/#pabvv.83/',
+      value: '@pabvv.83',
       icon: 'shield',
       copy: { label: 'COPIAR USUÁRIO' }
     },
