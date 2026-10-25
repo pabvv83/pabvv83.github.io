@@ -44,7 +44,7 @@ window.SITE_DATA = {
       name: 'TikTok',
       category: 'Redes sociais',
       description: 'Perfil no TikTok.',
-      url: 'https://tiktok.com/pabvv83',
+      url: 'https://tiktok.com/@pabvv83',
       icon: 'broadcast',
       actionLabel: 'VISITAR PERFIL'
     },
@@ -126,24 +126,6 @@ window.SITE_DATA = {
       value: 'github.com/pabvv83',
       url: 'https://github.com/pabvv83',
       icon: 'code',
-      actionLabel: 'VISITAR PERFIL'
-    },
-    {
-      id: 'instagram',
-      name: 'Instagram',
-      category: 'Redes sociais',
-      description: 'Perfil no Instagram.',
-      url: 'https://instagram.com/pabvv83',
-      icon: 'broadcast',
-      actionLabel: 'VISITAR PERFIL'
-    },
-    {
-      id: 'tiktok',
-      name: 'TikTok',
-      category: 'Redes sociais',
-      description: 'Perfil no TikTok.',
-      url: 'https://tiktok.com/pabvv83',
-      icon: 'broadcast',
       actionLabel: 'VISITAR PERFIL'
     }
   ],
